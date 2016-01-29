@@ -8,4 +8,4 @@ Working on sprite rollovers got you like this guy? Have no fear! Take a look at 
 - [Slides 9 - Sprites and Rollovers](https://docs.google.com/presentation/d/1M9YKGyk3ivguZBOrExrywmQYId9lmjrrxqAfgdqd58Y/edit?usp=sharing)
 - [Sprite Rollover - Code Example](http://jsfiddle.net/flatiron_school/jc2QR/)
 - [Sprites What Are They?](http://css-tricks.com/css-sprites/)
-<a href='https://learn.co/lessons/hs-sprite-rollovers-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-sprite-rollovers-resources' title='Resources'>Resources</a> on Learn.co and start learning to code for free.</p>
